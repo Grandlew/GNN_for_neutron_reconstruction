@@ -89,7 +89,7 @@ Energy-regression metrics:
 
 The selection score is defined as:
 
-S = 0.45*efficiency + 0.45*purity - 0.1*fake fraction -0.05*dubilcate fraction. 
+S = 0.45*efficiency + 0.45*purity - 0.1*fake fraction 
 
 ## Training Setup
 
