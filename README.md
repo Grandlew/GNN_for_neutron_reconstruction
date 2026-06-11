@@ -3,6 +3,7 @@ This repository contains the thesis notebooks for GNN-based neutron reconstructi
 ## Main Research Focus
 The framework investigates:
 > How GNN-based neutron reconstruction preserve full-event neutron multiplicity when candidate clusters are imperfect.
+
 The work compares six GNN architectures under the same UFC candidate segmentation and uses a separate notebook for final combined plots and comparison tables.
 
 ## Notebooks
