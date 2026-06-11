@@ -1,8 +1,8 @@
 # GNN_for_neutron_reconstruction
 This repository contains the thesis notebooks for GNN-based neutron reconstruction in high-granularity detector data. The work studies how to reconstruct neutron candidates when UFC candidate clusters are imperfect, with emphasis on event multiplicity, purity, efficiency, fake-candidate control, and energy regression.
 ## Main Research Focus
-The thesis investigates:
-> How GNN-based neutron reconstruction preserve full-event neutron multiplicity when candidate clusters are imperfect?
+The framework investigates:
+> How GNN-based neutron reconstruction preserve full-event neutron multiplicity when candidate clusters are imperfect.
 The work compares six GNN architectures under the same UFC candidate segmentation and uses a separate notebook for final combined plots and comparison tables.
 
 ## Notebooks
