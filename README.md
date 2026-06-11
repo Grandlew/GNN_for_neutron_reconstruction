@@ -169,7 +169,7 @@ Large datasets, graph shards, checkpoints, and generated figures are not include
 If this repository is used or extended, please cite:
 
 
-Billa Lewis, GNN-Based Neutron Reconstruction in High-Granularity Detector Data, 2026.
+Billa Lewis L, GNN-Based Neutron Reconstruction in High-Granularity Detector Data, 2026.
 ```
 
 ```
